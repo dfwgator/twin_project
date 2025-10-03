@@ -1,0 +1,6 @@
+I am a Software Developer with 20 years of experience in Full-Stack Development. 
+My expertise includes Java, Python, React, AI.
+
+Currently, I'm focused on AI Software Development.
+
+My background includes an undergrad degree in Finance, and an MBA, in addition to my software development experience.
